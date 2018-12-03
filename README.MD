@@ -3,13 +3,13 @@
 
 ### Completed: ###
 
-[1] Meteor connected to react [1]
-[2] Structured everything [2]
-[3] Used meteor accounts [3]
-[4] Used meteor methods and checks [4]
-[5] Created request to mongodb [5]
-[6] Components fetches database entries, and deletes and inserts to databse with tracker used [6]
-[7]  Working routing with passing params. [7]
+*Meteor connected to react 
+*Structured everything 
+*Used meteor accounts
+*Used meteor methods and checks
+*Created request to mongodb
+*Components fetches database entries, and deletes and inserts to databse with tracker used 
+*Working routing with passing params.
 
 ### Not completed: ###
 Styling-bootsrap, Simple schnema, Graphql, components needs more funcionality, thats not implemented and refactoring.
