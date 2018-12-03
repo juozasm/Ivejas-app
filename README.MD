@@ -1,7 +1,7 @@
 ## Ivejas APP ##
 
 
-###Completed:###
+### Completed: ###
 
 [1] Meteor connected to react 
 [2] Structured everything
@@ -11,7 +11,7 @@
 [6] Components fetches database entries, and deletes and inserts to databse with tracker used
 [7]  Working routing with passing params.
 
-###Not completed:###
+### Not completed: ###
 Styling-bootsrap, Simple schnema, Graphql, components needs more funcionality, thats not implemented and refactoring.
 
 By Juozas Masiliunas
